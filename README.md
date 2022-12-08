@@ -1,4 +1,4 @@
- ### ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I'm%20Hibaq%20🧕🏽&text2=💖%20Full%20Stack%20Developer&width=800&height=400) 
+ ### ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I'm%20Hibaq%20🧕🏽&text2=💖%20Full%20Stack%20Developer&width=1600&height=400) 
 
 <h2 align="center">🐱‍💻 About Me </h2>
 
