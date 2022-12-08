@@ -1,5 +1,5 @@
  ### ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I'm%20Hibaq%20🧕🏽&text2=💖%20Full%20Stack%20Developer&width=1600&height=400) 
-
+<br>
 <h2 align="center">🐱‍💻 About Me </h2>
 
 - 🌱 I'm a full-stack developer who just completed the intensive 16-weeks-bootcamp at Makers(Sept'22 intake)
