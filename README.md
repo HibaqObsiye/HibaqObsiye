@@ -1,11 +1,11 @@
-### Hi there 👋
+### ![SVG Banners](https://svg-banners.vercel.app/api?type=origin&text1=Hi,%20I'm%20Hibaq%20🧕🏽&text2=💖%20Full%20Stack%20Developer&width=800&height=400)
 
-<!--
-**HibaqObsiye/HibaqObsiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2 align="center">🐱‍💻 About Me </h2>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+  
+### About me:
+- 🌱 I'm a full-stack developer who just completed the intensive 16-weeks-bootcamp at Makers(Sept'22 intake)
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -13,4 +13,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
+<!--**HibaqObsiye/HibaqObsiye** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
